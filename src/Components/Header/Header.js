@@ -1,12 +1,28 @@
 import React from 'react';
-import './App.css';
+import classes from "./Header.module.css"
 
-function App() {
+let Header = () =>{
   return (
-    <div className="App">
-
+    <div className={classes.header}>
+        Header
+        <nav>
+            <ul>
+                <li>
+                    <navlink>Главная</navlink>
+                </li>
+                <li>
+                    <navlink>Скиллы</navlink>
+                </li>
+                <li>
+                    <navlink>Работы</navlink>
+                </li>
+                <li>
+                    <navlink>Контакты</navlink>
+                </li>
+            </ul>
+        </nav>
     </div>
   );
-}
+};
 
-export default App;
+export default Header;

@@ -1,12 +1,22 @@
 import React from 'react';
-import './App.css';
+import classes from "./Block_2.module.css"
+import Skill from "./skill";
 
-function App() {
+
+const Block_2 = () => {
   return (
-    <div className="App">
-
-    </div>
+      <section className={classes.section}>
+        Block2
+          <div className={classes.skillsBlock}>
+            <h1>Мои скилы</h1>
+            <div className={classes.skills}>
+                <Skill/>
+                <Skill/>
+                <Skill/>
+            </div>
+          </div>
+      </section>
   );
 }
 
-export default App;
+export default Block_2;

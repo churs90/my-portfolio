@@ -1,12 +1,25 @@
 import React from 'react';
-import './App.css';
+import classes from "./Block_5.module.css"
 
-function App() {
+
+const Block_5 = () => {
   return (
-    <div className="App">
+      <section className={classes.section}>
+        Block5
+          <div>
+              <div className={classes.contact}>
+                  <h1>контакты</h1>
+                  <form action="">
+                      <div><input type="text"/></div>
+                      <div><input type="text"/></div>
+                      <div><textarea rows="5" cols="30"></textarea></div>
+                  </form>
+                  <button>Отправить</button>
 
-    </div>
+              </div>
+          </div>
+      </section>
   );
 }
 
-export default App;
+export default Block_5;

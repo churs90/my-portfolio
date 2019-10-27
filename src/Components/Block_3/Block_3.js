@@ -1,12 +1,23 @@
 import React from 'react';
-import './App.css';
+import classes from "./Block_3.module.css"
+import Work from "./work";
 
-function App() {
+
+const Block_3 = () => {
   return (
-    <div className="App">
-
-    </div>
+      <section className={classes.section}>
+        Block3
+          <div className={classes.worksBlock}>
+              <h1>Мои работы</h1>
+              <div className={classes.works}>
+                  <Work/>
+                  <Work/>
+                  <Work/>
+                  <Work/>
+              </div>
+          </div>
+      </section>
   );
 }
 
-export default App;
+export default Block_3;

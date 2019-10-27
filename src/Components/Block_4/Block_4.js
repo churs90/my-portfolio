@@ -1,12 +1,17 @@
 import React from 'react';
-import './App.css';
+import classes from "./Block_4.module.css"
 
-function App() {
+
+const Block_4 = () => {
   return (
-    <div className="App">
-
-    </div>
+      <section className={classes.section}>
+        Block4
+          <div className={classes.remoteWorkBlock}>
+              <p>Расматриваю вариант удалённой работы</p>
+              <button>Нанять меня</button>
+          </div>
+      </section>
   );
 }
 
-export default App;
+export default Block_4;
