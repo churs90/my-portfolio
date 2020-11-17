@@ -1,18 +1,10 @@
 .section {
-    height: 250px;
     background-color: #FEFEEC;
-    padding: 0 15px;
-    position: relative;
+    padding: 20px 0;
 }
 
 .remoteWorkBlock {
-    width: 70%;
-    height: 120px;
-    border: 1px solid black;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+    margin: 0 auto;
 }
 
 .remoteWorkBlock p {
@@ -23,8 +15,11 @@
 }
 
 .remoteWorkBlock button {
+    background-color: #333333;
+    border-radius: 8px;
+    color: white;
     font-weight: bold;
     font-size: 24px;
     display: block;
-    margin: 50px auto;
+    margin: 20px auto 0 auto;
 }

@@ -1,44 +1,43 @@
 .section {
-    height: 400px;
     background-color: #FFE3E2;
-    padding: 0 15px;
-    position: relative;
+    padding: 20px 0;
 }
 
 .contact {
-    width: 70%;
-    height: 280px;
-    border: 1px solid black;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+
 }
 
 .contact h1 {
     text-align: center;
-    margin: 0;
+    margin-top: 0;
 }
 
 .contact form {
-    position: absolute;
     width: 50%;
-    height: 50%;
-    border: 1px solid black;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+    margin: 0 auto;
+}
+
+.contact form input,.contact form textarea {
+    width: 100%;
+    margin-bottom: 25px;
+    padding: 10px;
+    border: 2px solid #aaa;
+    border-radius: 6px;
+    transition: .3s;
+
 }
 
 .contact button {
-    position: absolute;
-    left: 50%;
-    bottom: 0;
-    transform: translateX(-50%);
+    background-color: #333333;
+    color: white;
+    display: block;
     font-weight: bold;
+    margin: 0 auto;
     font-size: 24px;
+    border-radius: 8px;
 }
 
-form textarea {
-    margin-top: 5px;
+form div {
+    width: 100%;
+    margin: 0 auto;
 }

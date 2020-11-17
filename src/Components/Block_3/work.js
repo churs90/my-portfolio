@@ -2,18 +2,17 @@ import React from 'react';
 import classes from "./Block_3.module.css"
 
 
-const Work = () => {
+const Work = (props) => {
   return (
           <div className={classes.work}>
               <div className={classes.workImg}>
-                  <button>
-                      Смотреть
-                  </button>
-                  <img src="https://zetaline.ru/images/easyblog_images/336/1372916505_veb-stranicu.jpg" alt="картинка"/>
+                  <button>Смотреть</button>
+                  <img src={props.worksUrlImg} alt=""/>
               </div>
-              <div className={classes.description}>
-                  <p>название проекта</p>
-                  <p>краткое описание</p>
+              <div className={classes.workDiscription}>
+                  <div className={classes.border}>
+                      <h1>{props.worksDiscription}</h1>
+                  </div>
               </div>
           </div>
   );

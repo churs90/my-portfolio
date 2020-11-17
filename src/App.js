@@ -9,6 +9,7 @@ import Block_5 from "./Components/Block_5/Block_5";
 import Footer from "./Components/Footer/Footer";
 
 function App() {
+
   return (
     <div className={"MyApp"}>
       <Header/>
