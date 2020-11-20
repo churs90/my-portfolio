@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "://churs90.github.io/portfolio/static/css/main.dba81a1d.chunk.css",
-    "main.js": "://churs90.github.io/portfolio/static/js/main.93da1ea8.chunk.js",
-    "main.js.map": "://churs90.github.io/portfolio/static/js/main.93da1ea8.chunk.js.map",
-    "runtime-main.js": "://churs90.github.io/portfolio/static/js/runtime-main.f6ece6b1.js",
-    "runtime-main.js.map": "://churs90.github.io/portfolio/static/js/runtime-main.f6ece6b1.js.map",
-    "static/js/2.34ef2c83.chunk.js": "://churs90.github.io/portfolio/static/js/2.34ef2c83.chunk.js",
-    "static/js/2.34ef2c83.chunk.js.map": "://churs90.github.io/portfolio/static/js/2.34ef2c83.chunk.js.map",
-    "index.html": "://churs90.github.io/portfolio/index.html",
-    "precache-manifest.3c47412411fb11075d5cec502a880395.js": "://churs90.github.io/portfolio/precache-manifest.3c47412411fb11075d5cec502a880395.js",
-    "service-worker.js": "://churs90.github.io/portfolio/service-worker.js",
-    "static/css/main.dba81a1d.chunk.css.map": "://churs90.github.io/portfolio/static/css/main.dba81a1d.chunk.css.map",
-    "static/media/cropped-volcano-brandon-project.jpg": "://churs90.github.io/portfolio/static/media/cropped-volcano-brandon-project.bed05001.jpg",
-    "static/media/maxresdefault.jpg": "://churs90.github.io/portfolio/static/media/maxresdefault.3b9a5fbc.jpg",
-    "static/media/todo-list-850x476.jpg": "://churs90.github.io/portfolio/static/media/todo-list-850x476.3e497f21.jpg",
-    "static/media/vad.jpg": "://churs90.github.io/portfolio/static/media/vad.cab05f6a.jpg"
+    "main.css": "://churs90.github.io/myPortfolio/static/css/main.dba81a1d.chunk.css",
+    "main.js": "://churs90.github.io/myPortfolio/static/js/main.660093dc.chunk.js",
+    "main.js.map": "://churs90.github.io/myPortfolio/static/js/main.660093dc.chunk.js.map",
+    "runtime-main.js": "://churs90.github.io/myPortfolio/static/js/runtime-main.8693ef48.js",
+    "runtime-main.js.map": "://churs90.github.io/myPortfolio/static/js/runtime-main.8693ef48.js.map",
+    "static/js/2.34ef2c83.chunk.js": "://churs90.github.io/myPortfolio/static/js/2.34ef2c83.chunk.js",
+    "static/js/2.34ef2c83.chunk.js.map": "://churs90.github.io/myPortfolio/static/js/2.34ef2c83.chunk.js.map",
+    "index.html": "://churs90.github.io/myPortfolio/index.html",
+    "precache-manifest.cdfb1236d4a3e5884f689dddcd004d79.js": "://churs90.github.io/myPortfolio/precache-manifest.cdfb1236d4a3e5884f689dddcd004d79.js",
+    "service-worker.js": "://churs90.github.io/myPortfolio/service-worker.js",
+    "static/css/main.dba81a1d.chunk.css.map": "://churs90.github.io/myPortfolio/static/css/main.dba81a1d.chunk.css.map",
+    "static/media/cropped-volcano-brandon-project.jpg": "://churs90.github.io/myPortfolio/static/media/cropped-volcano-brandon-project.bed05001.jpg",
+    "static/media/maxresdefault.jpg": "://churs90.github.io/myPortfolio/static/media/maxresdefault.3b9a5fbc.jpg",
+    "static/media/todo-list-850x476.jpg": "://churs90.github.io/myPortfolio/static/media/todo-list-850x476.3e497f21.jpg",
+    "static/media/vad.jpg": "://churs90.github.io/myPortfolio/static/media/vad.cab05f6a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6ece6b1.js",
+    "static/js/runtime-main.8693ef48.js",
     "static/js/2.34ef2c83.chunk.js",
     "static/css/main.dba81a1d.chunk.css",
-    "static/js/main.93da1ea8.chunk.js"
+    "static/js/main.660093dc.chunk.js"
   ]
 }
