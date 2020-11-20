@@ -1,5 +1,5 @@
 .section {
-    background-color: #FFE3E2;
+    background-color: #F0F0F0;
     padding: 20px 0;
 }
 
@@ -7,10 +7,6 @@
 
 }
 
-.contact h1 {
-    text-align: center;
-    margin-top: 0;
-}
 
 .contact form {
     width: 50%;

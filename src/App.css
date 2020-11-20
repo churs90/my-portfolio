@@ -3,8 +3,6 @@ body {
     margin: 0;
 }
 .MyApp {
-    max-width: 80%;
-    margin: 0 auto;
-    border: 2px solid black;
+    margin-top: 60px;
     box-sizing: border-box;
 }
